@@ -1,3 +1,3 @@
 # NO-XP-Studios
 Site para a empresa NO XP Studios em construção <br>
-<img src="![image](https://github.com/aclaracastro/NO-XP-Studios/assets/103144032/9c30ef21-f280-4c78-acfe-54cd387dbfb5)" alt="20%" width="40" height="40"/> 
+<img src="https://img.freepik.com/vetores-premium/barra-de-progresso-da-rodada-preenchida-em-20-por-cento-carregando-icone-de-download-de-buffer-de-transferencia-em-espera_254622-976.jpg" alt="20%" width="40" height="40"/> 
